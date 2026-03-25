@@ -1,5 +1,8 @@
 # Summary
 
+[Revolutions](revolutions.md)
+[Introduction](introduction.md)
+
 # Before 1989
 
 - [The Enlightenment](./enlightenment/README.md)

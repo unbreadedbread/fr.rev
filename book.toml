@@ -2,3 +2,7 @@
 title = "French Revolution"
 authors = ["bread"]
 language = "en"
+
+[output.html]
+default-theme = "rust"
+preferred-dark-theme = "navy"
