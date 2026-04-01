@@ -1,2 +1,4 @@
-book
+book/
 mdbook.exe
+*.sublime-project
+*.sublime-workspace
